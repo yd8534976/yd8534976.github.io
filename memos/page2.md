@@ -4,5 +4,5 @@
  f(x)=max(0,x)
 
 -Softmax(multiclass classification)
- \sigma (\mathbf {z} )_{j}={\frac {e^{z_{j}}}{\sum _{k=1}^{K}e^{z_{k}}}}    for j = 1, …, K.
+ ![Image of Softmax](https://wikimedia.org/api/rest_v1/media/math/render/svg/e348290cf48ddbb6e9a6ef4e39363568b67c09d3)    for j = 1, …, K.
  loss function: cross-entropy
