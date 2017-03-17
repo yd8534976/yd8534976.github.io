@@ -1,6 +1,6 @@
 # Dropout: an efficient way to combine neural nets
 
-## - Two ways to average models
+## Two ways to average models
 
  1. mixture: combine models by averaging their output probabilities
 
@@ -10,7 +10,7 @@
 
     sqrt(Model A * Model B) / sum
 
-## - An efficient way to average many large neural nets
+## An efficient way to average many large neural nets
 
  1. Consider a neural net with one hidden layer
 
@@ -20,4 +20,4 @@
 
     - All architectures share weights
 
-## - Dropout as a form of model averaging
+## Dropout as a form of model averaging

@@ -1,10 +1,10 @@
 ## Welcome to black me....
 
-### [guideline](https://yd8534976.github.io/memos/page1)
+### [guideline](https://yd8534976.github.io/memos/guideline)
 
-### [activation function](https://yd8534976.github.io/memos/activationfunction)
+### [Activation function](https://yd8534976.github.io/memos/activationfunction)
 
-### [overfitting](https://yd8534976.github.io/memos/overfitting)
+### [Dropout](https://yd8534976.github.io/memos/dropout)
 
 ### [page4](https://yd8534976.github.io/memos/page4)
 
