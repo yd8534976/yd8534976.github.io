@@ -2,9 +2,9 @@
 
 ### [guideline](https://yd8534976.github.io/memos/page1)
 
-### [activation function](https://yd8534976.github.io/memos/page2)
+### [activation function](https://yd8534976.github.io/memos/activationfunction)
 
-### [page3](https://yd8534976.github.io/memos/page3)
+### [overfitting](https://yd8534976.github.io/memos/overfitting)
 
 ### [page4](https://yd8534976.github.io/memos/page4)
 
