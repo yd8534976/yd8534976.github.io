@@ -6,7 +6,7 @@
 
 ### [Dropout](https://yd8534976.github.io/memos/dropout)
 
-### [page4](https://yd8534976.github.io/memos/page4)
+### [Cheat Sheet](https://yd8534976.github.io/memos/cheatsheet)
 
 ### [page5](https://yd8534976.github.io/memos/page5)
 
