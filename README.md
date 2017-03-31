@@ -10,7 +10,7 @@
 
 ### [page5](https://yd8534976.github.io/memos/page5)
 
-### [page6](https://yd8534976.github.io/memos/page6)
+### [DeepLearning](https://yd8534976.github.io/memos/deeplearning)
 
 ### [page7](https://yd8534976.github.io/memos/page7)
 
