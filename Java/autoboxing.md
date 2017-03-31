@@ -1,4 +1,4 @@
-```
+`
 public class Toy {
     public static void main(String[] args){
         double a=Double.NaN;
@@ -16,4 +16,4 @@ public class Toy {
         System.out.println(x.equals(y));//false
     }
 }
-```
+`

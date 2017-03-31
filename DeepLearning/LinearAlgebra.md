@@ -2,7 +2,7 @@
 
 ### Eigendecomposition
 
-- A = V diag(&lambda) V<sup>-1</sup>
+- A = V diag(&lambda;) V<sup>-1</sup>
 
 ### SVD
 
@@ -29,11 +29,11 @@
 
 - x = By
 
-- A<sup>+</sup> = lim<sub>a</sub>(A<sup>T</sup>A + &alpha I)<sup>-1</sup>A<sup>T</sup>
+- A<sup>+</sup> = lim<sub>a</sub>(A<sup>T</sup>A + &alpha;I)<sup>-1</sup>A<sup>T</sup>
 
 - A<sup>+</sup> = VD<sup>+</sup>U<sup>T</sup>
 
-- When A has more columns than rows, it provides the solution x = A<sup>+</sup>y with minimal Euclidean norm ||x|| among all possible solutions.
+- When A has more columns than rows, it provides the solution x = A<sup>+</sup>y with minimal Euclidean norm \|\|x\|\| among all possible solutions.
 
 - When A has more rows than columns, it is possible for there to be no solution. In this case, using the pseudoinverse gives us the x for which Ax is as close as possible to y in terms of Euclidean norm ||Ax-y||.
 
